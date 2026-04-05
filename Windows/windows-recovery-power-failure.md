@@ -1,7 +1,7 @@
 # Windows Installation Recovery: Power Failure During Reset
 
 **Document Type:** Troubleshooting Report  
-**Date:** 04 April 2026  
+**Date:** 06 April 2026  
 **Author:** Lesego Mowaisi  
 **Environment:** Windows 10/11 — Personal Laptop
 
