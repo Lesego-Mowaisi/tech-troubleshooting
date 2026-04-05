@@ -23,7 +23,7 @@ tech-troubleshooting/
 
 | # | Title | Category | Date |
 |---|-------|----------|------|
-| 1 | [Windows Installation Recovery: Power Failure During Reset](./Windows/windows-recovery-power-failure.md) | Windows | April 2026 |
+| 1 | [Windows Installation Recovery: Power Failure During Reset](./Windows/windows-recovery-power-failure.md) | Windows |06 April 2026 |
 
 ---
 
