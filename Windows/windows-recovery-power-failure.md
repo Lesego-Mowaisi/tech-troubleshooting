@@ -2,7 +2,7 @@
 
 **Document Type:** Troubleshooting Report  
 **Date:** 04 April 2026  
-**Author:** Lesego Mowaisi 
+**Author:** Lesego Mowaisi  
 **Environment:** Windows 10/11 — Personal Laptop
 
 ---
