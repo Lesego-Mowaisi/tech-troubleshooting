@@ -1,2 +1,2 @@
-# tech-troubleshooting
-A collection of technical issues I've solved and what I learned from them
+##Tech-troubleshooting##
+A collection of technical troubleshooting documentation from my personal learning and WIL experience
