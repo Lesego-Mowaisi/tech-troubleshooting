@@ -15,8 +15,8 @@ This repository serves as a personal knowledge base — documenting real technic
 tech-troubleshooting/
 ├── Windows/
 │   └── windows-recovery-power-failure.md
-└── Android/
-    └── android-studio-emulator-fix.md
+└── Java EE/
+    └── glassfish-port-occupied-fix.md
 ```
 
 ## 📄 Documents
