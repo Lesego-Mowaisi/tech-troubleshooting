@@ -35,8 +35,8 @@ tech-troubleshooting/
 
 | # | Title | Category | Date |
 |---|-------|----------|------|
-| 1 | [Windows Installation Recovery: Power Failure During Reset](./Windows/windows-recovery-power-failure.md) | Windows |06 April 2026 |  
-| 2 | [Windows Installation Recovery: Power Failure During Reset](./Windows/windows-recovery-power-failure.md) | Windows |08 April 2026 |
+| 1 | [Windows Installation Recovery: Power Failure During Reset](./Windows/windows-recovery-power-failure.md) | Windows | 06 April 2026 |  
+| 2 | [GlassFish Port Occupied Fix](./Java-EE/glassfish-port-occupied-fix.md) | Java EE | 08 April 2026 |
 
 ---
 
